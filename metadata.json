@@ -1,0 +1,8 @@
+{
+  "name": "Meu Dinheiro Organizado",
+  "description": "Sistema Integrado de Gestão Financeira Pessoal & Planejamento Inteligente para Celular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
